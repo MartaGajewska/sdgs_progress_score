@@ -1,10 +1,10 @@
 # Using SDGs to measure global progress
 
 ## Motivation
-This repository was created to store data and code used to analyze how is the world progressing from the perspective of UN Sustainable Development Goals. Overview of results can be found here: 
+This repository was created to store data and code used to analyze how is the world progressing from the perspective of UN Sustainable Development Goals. Overview of results can be found here: https://medium.com/@gmartag/is-there-a-reason-to-be-a-global-optimist-cfdca56cf2f0 
 
 ## Requirements
-* Python version: 
+* Python version: 3.6.10 
 * Libraries used: os, math, pandas, numpy, sklearn, matplotlib, seaborn, plotly, country_converter
 
 ## Files in this repository 
